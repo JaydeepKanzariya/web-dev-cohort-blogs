@@ -1,7 +1,8 @@
 # Web Dev Cohort 2026 – Blogs
 
-Author: Jaydeep Kanzariya
-Hashnode: https://jaydeepkanzariya.hashnode.dev
+**Author:** Jaydeep Kanzariya
+
+**Hashnode:** https://jaydeepkanzariya.hashnode.dev
 
 ## Networking
 1. [TCP vs UDP: When to Use What, and How TCP Relates to HTTP](https://jaydeepkanzariya.hashnode.dev/tcp-vs-udp-and-http)
